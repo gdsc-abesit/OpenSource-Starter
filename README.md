@@ -1,7 +1,7 @@
 # OpenSource-Starter
 🚀 Explore beginner-friendly open-source projects and step into the world of contributions with our curated repository list. Find your first project and start making a difference today!
 
-## Getting Started !!
+## Getting Started✨ !!
 
 If you're new to open-source contributions, here's how you can get started:
 
